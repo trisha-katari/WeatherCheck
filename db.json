@@ -1,0 +1,34 @@
+{ "users":[
+   {
+        "id":1,
+        "name":"deepa",
+        "age":23,
+        "course":"Java full stack"
+        
+    },
+    {
+        "id":2,
+        "name":"deepak",
+        "age":25,
+        "course":"Python full stack"
+    },
+    {
+        "id":3,
+        "name":"deepika",
+        "age":24,
+        "course":"MERN full stack"
+    },
+    {
+        "id":4,
+        "name":"deepesh",
+        "age":22,
+        "course":"Data Science"
+    },
+    {
+        "id":5,
+        "name":"deeppatel",
+        "age":21,
+        "course":"Machine Learning"
+    }
+    ]
+} 
